@@ -1,0 +1,23 @@
+.Notation {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.Notation__row {
+    display: flex;
+}
+.Notation__item {
+    margin: 15px;
+}
+h4 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+.Notation__picture {
+    width: 600px;
+    margin-left: 50px;
+}
+.Notation__header {
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+
