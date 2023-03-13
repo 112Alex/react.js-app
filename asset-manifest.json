@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/112Alex/112Alex.github.io/static/css/main.ab98136b.css",
+    "main.js": "/112Alex/112Alex.github.io/static/js/main.dc57579b.js",
+    "static/media/jpg": "/112Alex/112Alex.github.io/static/media/0ac27589859f085440b26eeccac0bc8d.f4e6528626b5dc55f52f.jpg",
+    "index.html": "/112Alex/112Alex.github.io/index.html",
+    "main.ab98136b.css.map": "/112Alex/112Alex.github.io/static/css/main.ab98136b.css.map",
+    "main.dc57579b.js.map": "/112Alex/112Alex.github.io/static/js/main.dc57579b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab98136b.css",
+    "static/js/main.dc57579b.js"
+  ]
+}
